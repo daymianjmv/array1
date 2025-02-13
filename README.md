@@ -1,7 +1,6 @@
 **Array Notes (Pt 2)**
 [Also here](https://docs.google.com/document/d/1mzlV_QWwNgBnqEwoCjr57BNzGOdpTOduEf4wDik9hmo/edit?usp=sharing)
 
-View Site here
 
 - Variables declared with let can be reassigned.
 - Elements in an array declared with `const` remain mutable:
