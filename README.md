@@ -1,4 +1,4 @@
-**Array Notes (Pt 2)**
+# **Array Notes (Pt 2)**
 [Also here](https://docs.google.com/document/d/1mzlV_QWwNgBnqEwoCjr57BNzGOdpTOduEf4wDik9hmo/edit?usp=sharing)
 
 
@@ -15,7 +15,7 @@
     ```
 - One of an array’s built-in properties is length
 - returns the number of items in the array
-- **.push()**
+# **.push()**
 - These methods are specifically called on arrays to make common tasks, like adding and removing elements, more straightforward.
 We access the push method by using dot notation
 - `.push()` can take a single argument or multiple arguments separated by commas.
@@ -23,7 +23,7 @@ We access the push method by using dot notation
 utensils.push('spork', 'napkin');
 console.log(utensils); // Output: ['fork', 'spoon', 'spork', 'napkin']
 ```
-- **pop()**
+# **pop()**
 - removes the last item of an array
 - does not take any arguments
 - method that mutates the initial array
